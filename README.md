@@ -15,3 +15,12 @@
 
 ## 函数调用关系
 > 完整源代码：存放在仓库 src/ 目录下（LinkedList.h、LinkedList.cpp、main.cpp）
+>
+## 运行截图
+![delete](delete.png)
+
+![insert](insert.png)
+
+![length](length.png)
+
+![search](search.png)
